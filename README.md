@@ -1,4 +1,4 @@
-This Repo contains some python code to get data from OPGG.
+This Repo contains some python code to get data from OPGG(https://www.op.gg/).
 
 ## Get_ID.ipynb
 
