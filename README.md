@@ -14,7 +14,8 @@ The game must be ranked and nonremake.
 
 You can get all possible champion matchup 's related stats.
 
-One example of the related stats(https://www.op.gg/champion/ajax/statistics/counterChampion/championId=81&targetChampionId=236&position=adc).
+One example of the related stats.
+https://www.op.gg/champion/ajax/statistics/counterChampion/championId=81&targetChampionId=236&position=adc
 
 ## Example.ipynb
 
